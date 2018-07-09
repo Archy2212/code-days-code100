@@ -41,4 +41,5 @@ stdin.addListener("data", function(d) {
     console.log('you entered wrong input');
     break;
     }
+    process.stdin.destroy();
   });
