@@ -31,3 +31,6 @@ print(math.sqrt(4))
 print(math.floor(3.6))
 print(math.ceil(3.6))
 print(math.pi)
+
+name=input("name:")
+print("hii", name)
