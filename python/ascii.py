@@ -1,7 +1,7 @@
 # Program to find the ASCII value of the given character
 
 # Change this value for a different result
-c = 'a'
+c = 'A'
 
 # Uncomment to take character from user
 #c = input("Enter a character: ")
