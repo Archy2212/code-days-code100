@@ -1,5 +1,11 @@
 var myForm= document.forms.form1;
 
+var c1,c2,c3,c4;
+
+		 c1= prompt("enter c1:");
+		 c2= prompt("enter c2:");
+		 c3= prompt("enter c3:");
+		 c4= prompt("enter c4:");	
 
 myForm.onsubmit=function(){
       if(myForm.txtinterval1.value=="" || myForm.txtinterval2.value=="") {
@@ -42,4 +48,3 @@ myForm.onsubmit=function(){
 		}
   
 };
-      
