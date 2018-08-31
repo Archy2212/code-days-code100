@@ -1,6 +1,6 @@
 // if else
 
-let num = 1;
+let num = 2;
 if(num == 1){
     console.log("you are in one");
     
