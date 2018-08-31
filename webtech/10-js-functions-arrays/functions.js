@@ -3,7 +3,7 @@ let sum = function(num1, num2){
     return res;
 }
 let intro = function(myage){
-    console.log("my name is chetan");
+    console.log("my name is chetan. my age is ",myage);
     
 }
 intro(30);
