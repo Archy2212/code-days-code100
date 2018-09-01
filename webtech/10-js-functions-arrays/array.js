@@ -1,6 +1,6 @@
 // Let's initialize an array consisting the names of family members
 
-let family = ["chetan", "mayur", "gunjan", "shriyai"];
+let family = ["Chetan", "Mayur", "Gunjan", "Shriyai"];
 
 // print all the values of array
 console.log(family);
