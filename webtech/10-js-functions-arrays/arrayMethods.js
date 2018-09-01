@@ -17,7 +17,7 @@ console.log(family);
 //above is to change things at end of array
 
 
-console.log(family.splice(1, 2, "Family One", "family two"));
+console.log(family.splice(1, 2, "xyz", "family two"));
 console.log(family);
 
 
