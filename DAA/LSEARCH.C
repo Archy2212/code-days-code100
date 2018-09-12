@@ -6,7 +6,7 @@ void main()
  clrscr();
  printf("enter the number of elements you want to enter:\n");
  scanf("%d",&elenum);
- printf("enter the elements:\n");
+ printf("enter the elements in array:\n");
  for(i=0;i<elenum;i++)
  scanf("%d",&arr[i]);
  printf("enter the number you want to search:\n");
