@@ -4,7 +4,7 @@ void main()
 {
  int a[1000],n,i,pos,item;
  clrscr();
- printf("enter the number of elements:\n");
+ printf("enter the number of elements in array:\n");
  scanf("%d",&n);
  printf("enter the sorted elements:\n");
  for(i=0;i<n;i++)
