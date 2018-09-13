@@ -41,7 +41,7 @@ void main()
  for(i=0;i<n;i++)
  scanf("%d",&a[i]);
  merge_sort(a,0,n-1);
- printf("the sorted elements are:");
+ printf("the sorted elements are :");
  for(i=0;i<n;i++)
  printf("%d\t",a[i]);
  getch();
