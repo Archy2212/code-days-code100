@@ -11,7 +11,7 @@ void main()
  for(i=0;i<n;i++)
  scanf("%d",&a[i]);
  insertion_sort(a,n);
- printf("sorted array is: ");
+ printf("sorted array is : ");
  for(i=0;i<n;i++)
  printf("%d\t",a[i]);
  getch();
