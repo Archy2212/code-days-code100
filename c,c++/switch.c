@@ -1,7 +1,7 @@
 #include<stdio.h>  
 int main(){    
 int number=0;     
-printf("enter a number:");    
+printf("enter a number :");    
 scanf("%d",&number);    
 switch(number){    
 case 10:    
