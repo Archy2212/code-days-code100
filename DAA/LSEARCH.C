@@ -4,7 +4,7 @@ void main()
 {
  int arr[1000],element,elenum,i,f=0,counter=0;
  clrscr();
- printf("enter the number of elements you want to enter:\n");
+ printf("enter the no. of elements you want to enter:\n");
  scanf("%d",&elenum);
  printf("enter the elements in array:\n");
  for(i=0;i<elenum;i++)
