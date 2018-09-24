@@ -35,7 +35,7 @@ void main()
 {
  int n,i,a[1000];
  clrscr();
- printf("enter number of elements:\n");
+ printf("enter no. of elements:\n");
  scanf("%d",&n);
  printf("enter the elements:\n");
  for(i=0;i<n;i++)

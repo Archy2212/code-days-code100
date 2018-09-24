@@ -6,7 +6,7 @@ print(3.6)
 print(-5.9)
 
 #basic operation on numbers
-print(2+7)
+print(2+10)
 print(22/7)
 print(3/3+3*9)
 
