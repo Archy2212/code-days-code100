@@ -3,8 +3,8 @@
 # import module
 import calendar
 
-yy = 1996
-mm = 12
+yy = 1994
+mm = 04
 
 # To ask month and year from the user
 # yy = int(input("Enter year: "))
