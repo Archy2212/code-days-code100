@@ -6,6 +6,6 @@ if(num == 1){
     
 }
 else{
-    console.log("You are at wrong place");
+    console.log("You are at wrong place!");
     
 }
