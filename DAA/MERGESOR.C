@@ -13,6 +13,7 @@ void merge_sort(int a[],int beg,int end)
   
   merge_sort(a,mid+1,end);
   merge_sorted_subarray(a,beg,mid,mid+1,end);
+  
  }
 }
 
