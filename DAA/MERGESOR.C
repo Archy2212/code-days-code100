@@ -8,6 +8,7 @@ void merge_sort(int a[],int beg,int end)
  {
   mid=(beg+end)/2;
   merge_sort(a,beg,mid);
+  
   merge_sort(a,mid+1,end);
   merge_sorted_subarray(a,beg,mid,mid+1,end);
  }
