@@ -7,6 +7,7 @@ void merge_sort(int a[],int beg,int end)
  if(beg<end)
  {
   mid=(beg+end)/2;
+  
   merge_sort(a,beg,mid);
   
   merge_sort(a,mid+1,end);
