@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 void merge_sorted_subarray(int a[],int i1,int j1,int i2,int j2);
+
 void merge_sort(int a[],int beg,int end)
 {
  int mid;
