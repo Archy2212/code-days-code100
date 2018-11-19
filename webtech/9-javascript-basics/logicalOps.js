@@ -12,7 +12,7 @@ password = "password1";
 while(true){
 
 if(loggedIn == true){
-    console.log("you are logged in");
+    console.log("you are logged in!!");
     break;
     
 }
@@ -22,7 +22,7 @@ if(userId == "chetanhere" && password == "password1"){
     loggedIn = true;
 }
 else{
-    console.log("You are not logged in");
+    console.log("You are not logged in!!");
     break;
     
 }

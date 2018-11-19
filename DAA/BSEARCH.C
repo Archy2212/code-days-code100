@@ -41,3 +41,4 @@ int binary_search(int a[], int n ,int item)
   }
    return -1;
  }
+
