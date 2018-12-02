@@ -6,6 +6,6 @@ for i in range(0,n):
     a.append(elem)
 
     avg=sum(a)/n
-print("Average of element",round(avg,2))
+    print("Average of element",round(avg,2))
   
   
