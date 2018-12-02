@@ -4,7 +4,8 @@ for i in range(0,n):
     
     elem=int(input("Enter elements: "))
     a.append(elem)
-avg=sum(a)/n
+
+    avg=sum(a)/n
 print("Average of element",round(avg,2))
   
   
